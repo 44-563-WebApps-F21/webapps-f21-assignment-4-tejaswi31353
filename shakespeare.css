@@ -1,0 +1,41 @@
+p.stage-direction {
+    font-style:inherit;
+    font-size: 18px;
+    color: red;
+    background-color:lightcyan;
+    
+  }
+  p.stage-direction:hover{
+    background-color: rgb(198, 216, 221);
+    color: greenyellow;
+  }
+  h4.scene{
+    color: green;
+  }
+  h6.name {
+    font-style: normal;  
+    font-size: 20px;
+    background-color: rgb(231, 227, 227);
+  }
+  h6.BARONRAFF{
+    color: cornflowerblue;
+  }
+  
+  h6.CZAR{
+    color: chartreuse;
+  }
+  h6.PAGE{
+    color: aqua;
+  }
+
+  h6.VERA{
+    color:blueviolet;
+  }
+  
+  #title{
+    color: red;
+  }
+ 
+
+ 
+
